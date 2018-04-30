@@ -1,0 +1,14 @@
+C:\Users\cumbe746\AppData\Local\Temporary Projects\MikeyApplication1\bin\Debug\MikeyApplication1.exe.config
+C:\Users\cumbe746\AppData\Local\Temporary Projects\MikeyApplication1\bin\Debug\MikeyApplication1.exe
+C:\Users\cumbe746\AppData\Local\Temporary Projects\MikeyApplication1\bin\Debug\MikeyApplication1.pdb
+C:\Users\cumbe746\AppData\Local\Temporary Projects\MikeyApplication1\bin\Debug\MikeyApplication1.xml
+C:\Users\cumbe746\AppData\Local\Temporary Projects\MikeyApplication1\obj\Debug\MikeyApplication1.Form1.resources
+C:\Users\cumbe746\AppData\Local\Temporary Projects\MikeyApplication1\obj\Debug\MikeyApplication1.Resources.resources
+C:\Users\cumbe746\AppData\Local\Temporary Projects\MikeyApplication1\obj\Debug\MikeyApplication1.vbproj.GenerateResource.Cache
+C:\Users\cumbe746\AppData\Local\Temporary Projects\MikeyApplication1\obj\Debug\MikeyApplication1.exe
+C:\Users\cumbe746\AppData\Local\Temporary Projects\MikeyApplication1\obj\Debug\MikeyApplication1.xml
+C:\Users\cumbe746\AppData\Local\Temporary Projects\MikeyApplication1\obj\Debug\MikeyApplication1.pdb
+C:\Users\cumbe746\Documents\Visual Studio 2012\Projects\MikeyApplication1\MikeyApplication1\bin\Debug\MikeyApplication1.exe.config
+C:\Users\cumbe746\Documents\Visual Studio 2012\Projects\MikeyApplication1\MikeyApplication1\obj\Debug\MikeyApplication1.exe
+C:\Users\cumbe746\Documents\Visual Studio 2012\Projects\MikeyApplication1\MikeyApplication1\obj\Debug\MikeyApplication1.xml
+C:\Users\cumbe746\Documents\Visual Studio 2012\Projects\MikeyApplication1\MikeyApplication1\obj\Debug\MikeyApplication1.pdb
