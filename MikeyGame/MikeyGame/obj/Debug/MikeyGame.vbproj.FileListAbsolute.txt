@@ -1,0 +1,11 @@
+C:\Users\cumbe746\AppData\Local\Temporary Projects\MikeyGame\bin\Debug\MikeyGame.exe.config
+C:\Users\cumbe746\Documents\Visual Studio 2012\Projects\MikeyGame\MikeyGame\bin\Debug\MikeyGame.exe.config
+C:\Users\cumbe746\Documents\Visual Studio 2012\Projects\MikeyGame\MikeyGame\bin\Debug\MikeyGame.exe
+C:\Users\cumbe746\Documents\Visual Studio 2012\Projects\MikeyGame\MikeyGame\bin\Debug\MikeyGame.pdb
+C:\Users\cumbe746\Documents\Visual Studio 2012\Projects\MikeyGame\MikeyGame\bin\Debug\MikeyGame.xml
+C:\Users\cumbe746\Documents\Visual Studio 2012\Projects\MikeyGame\MikeyGame\obj\Debug\MikeyGame.Form1.resources
+C:\Users\cumbe746\Documents\Visual Studio 2012\Projects\MikeyGame\MikeyGame\obj\Debug\MikeyGame.Resources.resources
+C:\Users\cumbe746\Documents\Visual Studio 2012\Projects\MikeyGame\MikeyGame\obj\Debug\MikeyGame.vbproj.GenerateResource.Cache
+C:\Users\cumbe746\Documents\Visual Studio 2012\Projects\MikeyGame\MikeyGame\obj\Debug\MikeyGame.exe
+C:\Users\cumbe746\Documents\Visual Studio 2012\Projects\MikeyGame\MikeyGame\obj\Debug\MikeyGame.xml
+C:\Users\cumbe746\Documents\Visual Studio 2012\Projects\MikeyGame\MikeyGame\obj\Debug\MikeyGame.pdb
